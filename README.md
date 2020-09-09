@@ -8,7 +8,7 @@ The goal of this project is to take a dataset that includes hospitalization and 
 
 
 ### Potential Clients
-The ability to predict which patients are at higher risk of being rehospitalized would be of benefit to hospitals and healthcare organizations.
+The capability of predicting which patients are at higher risk of being rehospitalized would be of benefit to hospitals and healthcare organizations aimed at reducing their readmission rate.
 
 ### Data
 Data from the 2015-2016 National Health and Nutrition Examination Survey (NHANES) was used to train and test the model. NHANES 2015-2016 data can be found on the [CDC's website.](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=20)
