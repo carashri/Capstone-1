@@ -19,9 +19,25 @@ Data from the 2015-2016 National Health and Nutrition Examination Survey (NHANES
 3. Analyze potential cost savings for an average hospital in the US, based on the model's predictions.
 
 ### Python Packages Used
-- Data Wrangling and Visualization: pandas, numpy, matplotlib, seaborn
-- Machine Learning: sklearn, scipy, statsmodels, xgboost
+- Data Wrangling, Visualization, and Statistical Inference: pandas, numpy, matplotlib, seaborn, scipy
+- Machine Learning: sklearn, xgboost, datetime
 
 ### Other Programs Used
 - Microsoft Excel (for cost savings analysis)
+
+### Deliverables
+1. Final Report
+- [Final Report](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Final%20Report%20and%20Slide%20Deck/Predicting%20Hospital%20Readmissions%20-%20Slide%20Deck.pdf)
+- [Presentation Slides](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Final%20Report%20and%20Slide%20Deck/Predicting%20Hospital%20Readmissions%20-%20Slide%20Deck.pdf)
+
+2. Project Proposal and Preliminary Reports
+- [Proposal](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Proposal%20%26%20Preliminary%20Reports/Capstone%20I%20Proposal%20-%20Cara%20Shrivastava.pdf)
+- [Milestone Report - Slides](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Proposal%20%26%20Preliminary%20Reports/Capstone%201_%20Creating%20a%20Model%20to%20Predict%20%2030-day%20Hospital%20Readmissions.pdf)
+- [Milestone Report](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Proposal%20%26%20Preliminary%20Reports/Capstone%201%20Milestone%20Report.pdf)
+
+3. Code
+- [Data Wrangling](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Code/Capstone_1_Data_Wrangling_Final.ipynb)
+- [Data Storytelling](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Code/Capstone_1_Data_Storytelling_Final.ipynb)
+- [Inferential Statistics](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Code/Capstone_1_Inferential_Statistics_Final.ipynb)
+- [Machine Learning](https://github.com/carashri/Predicting-Hospital-Readmissions/blob/master/Code/Capstone_1_Machine_Learning_Final.ipynb)
 
